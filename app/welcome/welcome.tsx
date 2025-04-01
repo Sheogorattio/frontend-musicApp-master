@@ -3,7 +3,7 @@ import logoLight from "./logo-light.svg";
 
 export function Welcome() {
   return (
-    <h1>Hello, world!</h1>
+    <h1>Say "bye"!</h1>
   );
 }
 
